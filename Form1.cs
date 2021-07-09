@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DeirdreAndGintaCA //didn't use arrays used list pretty straight forward nothing much here to comment on
+namespace DeirdreAndGintaCA 
 {
     public partial class Form1 : Form
     {
